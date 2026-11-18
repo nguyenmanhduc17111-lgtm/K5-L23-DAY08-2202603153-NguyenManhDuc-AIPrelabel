@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_005,can_review,"Chỉ thấy tay người trong cảnh đông người; trước đó vẫn gán person theo hướng dẫn sai của trợ lý","Không gán person nếu phần nhìn thấy dưới 20% người; rà và bỏ nhãn không đạt điều kiện","Nhắc lại mục 4.1.2 v1.0; không đổi ngưỡng che khuất",v1.1
+CAL-02,img_028|img_029|img_030,cau_hoi_mo,"Nhiều xe máy sát nhau: gán riêng hay ignore_region","Giữ box riêng khi phân biệt được từng xe và đáp ứng điều kiện kích thước/che khuất; không dùng ignore_region chỉ vì xe sát nhau","Làm rõ mục 6 câu 2 cho trường hợp vẫn tách được xe; cụm không tách được chưa chốt thêm ngưỡng",v1.1
+CAL-03,img_002,loi_may,"YOLOE-S gán xe bán tải thành three_wheeler","Đổi nhãn xe bán tải sang car theo định nghĩa lớp; sửa lỗi tương tự nếu gặp trong batch","Nhắc lại mục 2 v1.0: bán tải thuộc car; không thay định nghĩa lớp",v1.1

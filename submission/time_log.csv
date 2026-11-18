@@ -1,1 +1,3 @@
-step,images,minutes,note
+﻿step,images,minutes,note
+gold_manual,4,15,"Thời gian người học báo lại sau khi gán tay"
+batch_review,24,30,"Thời gian người học báo lại sau khi review"

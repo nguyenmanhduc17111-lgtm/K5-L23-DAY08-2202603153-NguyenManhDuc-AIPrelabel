@@ -1,8 +1,8 @@
-<p align="center">
+﻿<p align="center">
   <img src="docs/assets/hero.png" alt="Day 08 Lab: AI hỗ trợ gán nhãn" width="100%">
 </p>
 
-# Day 08 Lab — AI hỗ trợ gán nhãn: Pre-label, Review, Calibration
+# Day 08 Lab — 2202603153 - Nguyễn Mạnh Đức
 
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
@@ -143,3 +143,4 @@ Chi tiết và cách ghi vào `REPORT.md` mục 1: [docs/MODELS.md](docs/MODELS.
 - **Calibration**: ngưỡng theo lớp · guideline v1.1 · QC với Release / Hold / Rework (nâng cao: đo nhất quán của chính bạn).
 
 <sub>Ảnh minh hoạ giao diện CVAT trong `docs/assets/cvat/` lấy từ tài liệu CVAT (MIT). Sơ đồ khác do giảng viên vẽ (`docs/assets/make_figures.py`).</sub>
+
